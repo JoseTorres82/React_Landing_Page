@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
 import { TiShoppingCart } from "react-icons/ti";
 import { FiMenu } from "react-icons/fi"; 
-import { GrClose } from "react-icons/Gr"; 
+import { GrClose } from "react-icons/gr"; 
 import { useCart } from "./CartContext/CartContext";
 
 
